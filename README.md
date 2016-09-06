@@ -6,6 +6,7 @@ A list of places to learn the skills to pay the bills
 ### JavaScript/Node
 * [NodeJS for the Beginner](https://hyperdev.com/help/learn-node-js-free-beginner-course/)
 * [NodeSchool](http://nodeschool.io/)
+  * [NodeSchool on HyperDev](https://hyperdev.com/blog/learn-javascript-nodeschools-javascripting-workshopper-hyperdev/)
 
 ## Tools
 
