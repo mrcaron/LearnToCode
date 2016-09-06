@@ -2,7 +2,10 @@
 A list of places to learn the skills to pay the bills
 
 ## Education
+
+### JavaScript/Node
 * [NodeJS for the Beginner](https://hyperdev.com/help/learn-node-js-free-beginner-course/)
+* [NodeSchool](http://nodeschool.io/)
 
 ## Tools
 
